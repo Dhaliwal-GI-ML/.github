@@ -2,7 +2,7 @@
 
 ## Overview
 
-Our lab specializes in machine and deep learning approaches to creating powerful clinical tools in gastroenterology. We provide tools for analyzing eosiniphilic data in histology reports, various NLP techniques on endoscopy and histology reports, and predictive models that predict patient response to various disease treatments.
+Our lab specializes in machine and deep learning approaches to creating powerful clinical tools in gastroenterology. We provide tools for analyzing eosiniphilic data in histology reports, various NLP techniques on endoscopy and histology reports, and predictive models that predict patient response to various disease treatments. We are a multidisciplinary team working out of Cincinnati Children's Hospital Medical Center in both the Division of Biomedical Informatics and the Division of Gastroenterology, Hepatology, and Nutrition.
 
 ## Projects
 
