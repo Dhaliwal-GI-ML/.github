@@ -46,7 +46,7 @@ Dr. James Reigle, PhD
 
 Ruby Liu
 
-Sixten Heekins
+Sixten Heekin
 
 Shyam Debsarkar
 
