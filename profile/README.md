@@ -35,16 +35,20 @@ Dr. Jasbir Dhaliwal, MBBS, MRCPCH, MSc
 
 Dr. Surya Prasath, PhD
 
+Dr. Lauren Erdman, PhD
+
 #### Fellows
 
 Dr. James Reigle, PhD
 
+Dr. Nicole Zeky, MD
+
 #### Students and Research Associates
 
-Ruby Liu
+Xiaoxuan (Ruby) Liu
 
 Sixten Heekin
 
-Shyam Debsarkar
+Julia Smith
 
 Nicholas Denson
