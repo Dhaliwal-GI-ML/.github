@@ -16,15 +16,12 @@ Our lab specializes in machine and deep learning approaches to creating powerful
 
 #### Contact 
 
-### Endoscopy and Histology Named Entity Recognition and Entity Relation Extraction
+### Endoscopy and Histology Named Entity Recognition and Entity Relation Extraction ([Repository](https://github.com/Dhaliwal-GI-ML/Colonoscopy-NER-and-Relation-Extraction/tree/main))
 
 #### Summary
 
 Provides tools for training and running BERT based NER models on free-text endoscopy and histology reports, extracting the relationships between recognized entities, and converting extracted entities and relations into a format suited for downstream machine learning training. The user will be able to use pretrained models or use a custom annotated corpus to train their own model for these processes. This project is a subproject of the ARC Project which aims to predict patient response to Anti-TNF therapy.
 
-#### Publication
-
-#### Repository
 
 #### Contact 
 
