@@ -10,11 +10,15 @@ Our lab specializes in machine and deep learning approaches to creating powerful
 
 #### Summary
 
+
 #### Publication
 
-#### Repository
+Reigle, J., Lopez Nunez, O., Drysdale, E., Abuquteish, D., Liu, X., Putra, J., ... & Dhaliwal, J. (2024). Using Deep Learning to Automate Eosinophil Counting in Pediatric Ulcerative Colitis Histopathological Images. medRxiv, 2024-04.
+
 
 #### Contact 
+
+James Reigle, james.reigle@cchmc.org
 
 ### Endoscopy and Histology Named Entity Recognition and Entity Relation Extraction ([Repository](https://github.com/Dhaliwal-GI-ML/Colonoscopy-NER-and-Relation-Extraction/tree/main))
 
