@@ -6,9 +6,11 @@ Our lab specializes in machine and deep learning approaches to creating powerful
 
 ## Projects
 
-### Eosinophilic Counting and Density Analysis
+### Eosinophilic Counting and Density Analysis  ([Repository](https://github.com/Dhaliwal-GI-ML/Eosinophilic-Cell-Counting))
 
 #### Summary
+
+Tools to count and visualize eosinophils in colorectal biopsy histopathology images.
 
 
 #### Publication
